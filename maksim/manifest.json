@@ -1,0 +1,14 @@
+{
+  "slug": "maksim",
+  "public_url": "https://vcm1.github.io/vcard/maksim/",
+  "remote_dir": "/var/www/card/maksim",
+  "built_at": "2026-09-11T08:40:58+00:00",
+  "files": [
+    "avatar.jpg",
+    "contact.vcf",
+    "index.html",
+    "manifest.json",
+    "qr_code.png",
+    "qr_code.svg"
+  ]
+}
