@@ -13,9 +13,12 @@ item2.URL:https://t.me/couching_anna
 item2.X-ABLabel:Telegram-канал
 item3.URL:https://vk.ru/annakulikova.coach
 item3.X-ABLabel:ВКонтакте
+item4.URL:HTTPS://www.instagram.com/annakulikova.coach/
+item4.X-ABLabel:Instagram
 X-ANDROID-CUSTOM:vnd.android.cursor.item/website;https://t.me/anna_couching;0;Telegram;;;;;;;;;;;;;
 X-ANDROID-CUSTOM:vnd.android.cursor.item/website;https://t.me/couching_anna;0;Telegram-канал;;;;;;;;;;;;;
 X-ANDROID-CUSTOM:vnd.android.cursor.item/website;https://vk.ru/annakulikova.coach;0;ВКонтакте;;;;;;;;;;;;;
+X-ANDROID-CUSTOM:vnd.android.cursor.item/website;HTTPS://www.instagram.com/annakulikova.coach/;0;Instagram;;;;;;;;;;;;;
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAoHCAkIBgoJCAkM
  CwoMDxoRDw4ODx8WGBMaJSEnJiQhJCMpLjsyKSw4LCMkM0Y0OD0/QkNCKDFITUhATTtBQj//2w
  BDAQsMDA8NDx4RER4/KiQqPz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/
