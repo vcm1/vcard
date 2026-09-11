@@ -1,0 +1,16 @@
+{
+  "slug": "liliia",
+  "public_url": "https://vcm1.github.io/vcard/liliia/",
+  "remote_dir": "/var/www/card/liliia",
+  "built_at": "2026-09-11T09:12:41+00:00",
+  "files": [
+    "avatar.jpg",
+    "background.jpg",
+    "contact.vcf",
+    "index.html",
+    "logo.png",
+    "manifest.json",
+    "qr_code.png",
+    "qr_code.svg"
+  ]
+}
