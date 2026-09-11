@@ -1,0 +1,14 @@
+{
+  "slug": "alena",
+  "public_url": "https://vcm1.github.io/vcard/alena/",
+  "remote_dir": "/var/www/card/alena",
+  "built_at": "2026-09-11T12:12:21+00:00",
+  "files": [
+    "avatar.jpg",
+    "contact.vcf",
+    "index.html",
+    "manifest.json",
+    "qr_code.png",
+    "qr_code.svg"
+  ]
+}
