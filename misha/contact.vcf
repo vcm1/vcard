@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Emotions Fitness//Card Builder//RU
+N;CHARSET=UTF-8:Усатых;Михаил;Николаевич;;
+FN;CHARSET=UTF-8:Михаил Усатых
+EMAIL;TYPE=INTERNET:mnusatykh@gmail.com
+TEL;TYPE=CELL,VOICE,pref:+7 987 304 24 51
+TITLE;CHARSET=UTF-8:Эксперт по масштабированию B2B-
+ бизнеса
+item1.URL:https://t.me/Manager_business2
+item1.X-ABLabel:Telegram
+X-ANDROID-CUSTOM:vnd.android.cursor.item/website;https://t.me/Manager_business2;0;Telegram;;;;;;;;;;;;;
+NOTE;CHARSET=UTF-8:Эксперт по масштабированию B2B-
+ бизнеса
+END:VCARD
