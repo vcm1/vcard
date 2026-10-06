@@ -1,0 +1,14 @@
+{
+  "slug": "deltest2",
+  "public_url": "https://vcm1.github.io/vcard/deltest2/",
+  "remote_dir": "/var/www/card/deltest2",
+  "built_at": "2026-10-06T11:51:05+00:00",
+  "files": [
+    "avatar.jpg",
+    "contact.vcf",
+    "index.html",
+    "manifest.json",
+    "qr_code.png",
+    "qr_code.svg"
+  ]
+}
