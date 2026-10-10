@@ -1,0 +1,14 @@
+{
+  "slug": "56789",
+  "public_url": "https://vcm1.github.io/vcard/56789/",
+  "remote_dir": "/var/www/vcards/56789",
+  "built_at": "2026-10-10T19:46:13+00:00",
+  "files": [
+    "avatar.jpg",
+    "contact.vcf",
+    "index.html",
+    "manifest.json",
+    "qr_code.png",
+    "qr_code.svg"
+  ]
+}
